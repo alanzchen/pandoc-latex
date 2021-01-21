@@ -24,4 +24,5 @@ RUN tlmgr update --self && \
     footmisc \
     sectsty \
     advdate \
-    sttools
+    sttools \
+    xelatex
