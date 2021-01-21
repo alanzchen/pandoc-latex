@@ -23,4 +23,5 @@ RUN tlmgr update --self && \
     fontawesome5 \
     footmisc \
     sectsty \
-    advdate
+    advdate \
+    sttools
